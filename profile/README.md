@@ -15,7 +15,9 @@
 1. Perceval backend for [public-inbox archive repositories](https://github.com/bitergia-analytics/grimoirelab-perceval-public-inbox)
 
 ### OpenSearch Dashboards Visualization-Extensions
+1. [Dot Plot](https://github.com/bitergia-analytics/dotplot-vis-plugin)
 1. [Network](https://github.com/bitergia-analytics/network-vis-plugin)
+1. [Polar](https://github.com/bitergia-analytics/polar-vis-plugin)
 1. [Radar](https://github.com/bitergia-analytics/radar-vis-plugin) 
 
 ## Tools for BAP Servicing
@@ -27,8 +29,9 @@
 
 ## Analytic Tools
 1. [Footprint Analysis](https://github.com/bitergia-analytics/footprint-analysis)
-2. [360 Reports](https://github.com/bitergia-analytics/bitergia-360reports)
-3. [Risk Radar](https://github.com/bitergia-analytics/bitergia-riskradar)
+1. [360 Reports](https://github.com/bitergia-analytics/bitergia-360reports)
+1. [Risk Radar](https://github.com/bitergia-analytics/bitergia-riskradar)
+1. [Linux Kernel Analysis](https://github.com/bitergia-analytics/linux-kernel-analysis)
 
 ## Custom Product-Extension Components
 1. SortingHat backend to import data from [OpenInfraID](https://github.com/bitergia-analytics/sortinghat-openinfra)
